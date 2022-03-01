@@ -1,0 +1,610 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reformed catholique, or, The true protestant</title>
+            <author>L'Estrange, Roger, Sir, 1616-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 83 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09389</idno>
+            <idno type="STC">Wing L1291</idno>
+            <idno type="STC">ESTC R179474</idno>
+            <idno type="EEBO-CITATION">62369428</idno>
+            <idno type="OCLC">ocm 62369428</idno>
+            <idno type="VID">187985</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09389)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187985)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2851:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reformed catholique, or, The true protestant</title>
+                  <author>L'Estrange, Roger, Sir, 1616-1704.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>MDCLXXIX. [1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Sir Roger L'Estrange. Cf. Wing (2nd ed.).</note>
+                  <note>Imperfect: pages cropped and tightly bound with slight loss of print.</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187985:1" rendition="simple:additions"/>
+            <p>REFORMED CATHOLIQUE: OR THE True Proteſtant.</p>
+            <q>
+               <bibl>MATTH. 24. 26.</bibl> 
+               <hi>There ſhall ariſe</hi> FALSE CHRISTS <hi>and</hi> FALSE PROPHETS.</q>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Reprinted, M.DC.LXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:187985:2"/>
+            <head>The Reformed Catholique, or the True Proteſtant.</head>
+            <p>THIS Paper ſhould have come into the World under the form of a Letter (as moſt Pamphlets of quality do of late) if the Author had not made a Conſcience of co<g ref="char:EOLhyphen"/>vering the Simplicity of his purpoſe under any ſort of Diſguiſe; ſo that without ſo much as a ſingle <hi>How do ye</hi> to uſher it in, he comes point blank to the Buſineſs in the very Title. It may be look'd upon, I know, as a thing of <hi>Ill Omen,</hi> to begin with an <hi>Alias:</hi> But there's neither <hi>Prieſt</hi> nor <hi>Highway-man</hi> in our Caſe; and yet there be cauſe enough perhaps for a kind of <hi>Hue and Cry</hi> too; for 'tis a matter of great moment that every man ſhould both <hi>go,</hi> and be <hi>known</hi> by his right Name; and (peradventure) never more neceſſary than in this juncture, and in this particular: and ſo to my Text.</p>
+            <p>
+               <hi>A Reformed Catholique</hi> (properly ſo called) <hi>is an Apoſtolieal Chriſtian,</hi> or <hi>a Son of the Church of</hi> England: <hi>a true Proteſtant may</hi> be ſo to; nay, and many times he <hi>is</hi> ſo; and many a <hi>Loy<g ref="char:EOLhyphen"/>al, Orthodox, Reformed Catholique calls</hi> himſelf ſo; and (according to the ſtile of the Age) he may be well enough <hi>ſaid</hi> and <hi>accounted</hi> ſo to <hi>be.</hi> But all this is only by <hi>Adoption,</hi> and with<g ref="char:EOLhyphen"/>out any colour for it in the original of his <hi>Denomination.</hi> Now a <hi>Proteſtant,</hi> in ſtrictneſs of ſpeaking is a <hi>Lutheran,</hi> which this Church does not in all points pretend to be, and then the <hi>Characteriſtical Note</hi> of a <hi>Chriſtian</hi> is <hi>Catholique;</hi> ſo that the <hi>Appellation</hi> is too narrow for the <hi>Principle,</hi> and draws on the very ſame Implication in a <hi>Proteſtant-Catholique,</hi> which we make ſport with in a <hi>Roman-Catholique,</hi> that is to ſay, the Soloeciſm of a <hi>particular <g ref="char:V">Ʋ</g>niverſality.</hi>
+            </p>
+            <p>Here is enough already (I ſuppoſe) to furniſh an Extract of as much Popery out of it, as may recommend ſome hungry Informer to a Mornings-draught; for we have a ſort of peo<g ref="char:EOLhyphen"/>ple now a days, that will read a mans Heart through his Ribs, though they can hardly ſee his Noſe on's face; and that give more Credit to their Ears than to their Eyes. Now to eaſe the Reader in two or three peeviſh Points, if he ſhould chance to be <hi>over-critical</hi> and <hi>im<g ref="char:EOLhyphen"/>perious,</hi> I will tell him before-hand, in a few words, what he is to truſt to.</p>
+            <p>To the <hi>firſt Queſtion</hi> or <hi>Objection</hi> fairly ſuppoſed; the Author is no <hi>diſguiſed</hi> or <hi>concealed Papiſt,</hi> but of the Communion of the Church of <hi>England,</hi> train'd up in the ſtricteſt way of it, and ſtanding firm to it againſt all ſorts of Provocation, Diſcouragement, Temptation, and Ar<g ref="char:EOLhyphen"/>gument; and without warping to the <hi>Jeſuits,</hi> either on the <hi>right hand,</hi> or on the <hi>left.</hi>
+            </p>
+            <p>To the <hi>Second:</hi> He is not ſet on to write this Diſcourſe, either directly or indirectly; by any Hint, Deſire, or Appointment whatſoever; nor by any other Motive than the ſenſe of what he owes to the Publique, and to his Conſcience, and the Conſideration of ſome ſmall Preſent from the Book-ſeller, if there be any thing got by't. (A piece of <hi>Good Husbandry</hi> that he has learnt of his <hi>Superiors.)</hi> He has no deſign upon any <hi>Place at Court</hi> in't, nor upon any <hi>Church-Leaſe;</hi> no not ſo much as a Reverſion: And all this is true, by the Faith of a poor Gentle<g ref="char:EOLhyphen"/>man, that has worn his Doublet out at elbows in his Majeſties Service. It might be added, that he's grown old and Careleſs, and that even Malice it ſelf were loſt upon him. Now un<g ref="char:EOLhyphen"/>der theſe Circumſtances, I hope he may ſecurely advance to tell you a little more of his mind:</p>
+            <p>So <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as <hi>Catholique</hi> and <hi>Proteſtant</hi> ſerve only as two <hi>ſeveral Names,</hi> intending the <hi>ſelf-ſame thing,</hi> (though the one by <hi>Protriety,</hi> and the oth<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> but b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Tranſlation)</hi> is all one to me whe<g ref="char:EOLhyphen"/>ther of the two any man calls me; all the danger is, the countenancing of an ill Thing under a good Name.</p>
+            <p>The word <hi>Proteſtancy</hi> falls under a <hi>double acceptation;</hi> the <hi>one,</hi> as it denotes the <hi>Reformed Religion;</hi> the <hi>other,</hi> as it is taken for <hi>the Genus Generaliſſimum of all Diſſenters from the Church of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome.</hi> The <hi>former</hi> I do heartily embrace, as tranſmitted to us from our Fore-fathers, and Signed by the Blood of Martyrs; authorized by the Holy Goſpel, and by the Law of the
+<pb facs="tcp:187985:2"/>
+Land; the common Bond of our Civil Peace, and (by Gods Bleſſing) the Hopes and Means of our Eternal Salvation.</p>
+            <p>Now to the <hi>latter Acceptation,</hi> I am not at all ſatisfied with it, and I have both <hi>Reaſon</hi> and <hi>Experience</hi> to warrant me in that d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſlike. As to my <hi>Reaſon;</hi> Firſt, It is an <hi>Agreement</hi> upon an <hi>Oppoſition;</hi> and next, it is an <hi>Agreement of ſeveral parties diſagreeing among themſelves,</hi> which carries the face rather of a <hi>Confederacy,</hi> than a <hi>Religion:</hi> For it is not the <hi>Oppoſing</hi> of <hi>Error,</hi> but the aſſerting of a <hi>Truth,</hi> that maſt do the work. <hi>One Error</hi> may be <hi>oppoſed</hi> by <hi>another,</hi> even in a ſingle perſon; as one man robs his <hi>Neighbour,</hi> and a third robs <hi>him.</hi> Here's <hi>one Injuſtice oppoſed by another:</hi> So that as it is an <hi>Agreement</hi> in <hi>Oppoſition,</hi> 'tis a hundred to one there will be <hi>Error</hi> in't: But the <hi>Oppoſers</hi> themſelves being <hi>ſubdivided,</hi> 'tis impoſſible it ſhould be <hi>Right;</hi> for the very <hi>Eſſence</hi> and <hi>Soul</hi> of <hi>Religion</hi> are here wanting; that is to ſay, <hi>Charity</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity.</hi> And for the proof of this, beyond all Contradiction; let but any man look back into the late Troubles, and ſee, when the Factions had deſtroyed the King and the <hi>Church</hi> (which they called the <hi>Common Enemy)</hi> how they fell preſently to worrying of one another; when the <hi>Presbyterians, Independents, Anabaptiſts, Quakers, Seekers, Ranters, An<g ref="char:EOLhyphen"/>tinomians,</hi> and twenty other wild ſorts of <hi>Sectaries,</hi> under the title of <hi>Proteſtants,</hi> and under the pretence of oppoſing <hi>Popery,</hi> deſtroyed the very Cauſe they <hi>covenanted</hi> to aſſert; a <hi>Pro<g ref="char:EOLhyphen"/>teſtant-Church,</hi> a <hi>Proteſtant Prince,</hi> and a <hi>Proteſtant-People,</hi> filled the Land with <hi>Confuſion, Sacri<g ref="char:EOLhyphen"/>ledge,</hi> and <hi>Herefie;</hi> made the <hi>Engliſh Nation</hi> a Reproach and a Scandal to the <hi>Chriſtian World:</hi> And ſo ſoon as they had poſſeſſed themſelves of the <hi>Power</hi> and <hi>Revenue</hi> of the Kingdom, e<g ref="char:EOLhyphen"/>very mans hand was againſt his Brother for the <hi>Booty.</hi>
+            </p>
+            <p>To proceed now to the matter of <hi>Experience:</hi> I would fain ſee any one Inſtance from the ve<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>Reformation it ſelf,</hi> to <hi>this day,</hi> when ever there was a Clamour advanced upon this Point, of a <hi>Conjunct Oppoſition</hi> of <hi>Popery,</hi> that the Church of <hi>England</hi> was not ſtruck at in the <hi>Confe<g ref="char:EOLhyphen"/>deracy;</hi> and that too, not by blind <hi>Inferences</hi> and tacit <hi>Preſumption,</hi> but by <hi>Overt Acts,</hi> and a Notoriety of <hi>Practice:</hi> That is to ſay, the Men that ſtickled under this Notion, did poſitive<g ref="char:EOLhyphen"/>ly declare the <hi>Government</hi> by <hi>Biſhops,</hi> to be <hi>Antichriſtian;</hi> and the <hi>Diſcipline</hi> and <hi>Common Prayers</hi> of the <hi>Church,</hi> to be <hi>Popery</hi> and <hi>Superſtition;</hi> yes, and the <hi>Civil Adminiſtration it ſelf</hi> alſo to be downright <hi>Tyranny.</hi> They did juſt like the Fellows in <hi>Hatton-Garden,</hi> that ſtole <hi>Money</hi> and <hi>Plate</hi> under the pretence of Searching for <hi>Prieſts;</hi> and for the Credit of the Ex<g ref="char:EOLhyphen"/>ploit, they rob'd in <hi>Red Coats</hi> too, that they might the better paſs for ſome of his <hi>Majeſties Guards.</hi> The Similitude runs upon all Four, for it was the very caſe of our <hi>pretended Pro<g ref="char:EOLhyphen"/>teſtants,</hi> under colour of hunting for <hi>Prieſts,</hi> they ſeized <hi>Money</hi> and <hi>Plate,</hi> and committed <hi>Robberies</hi> in the very <hi>Livery</hi> of the <hi>Government.</hi>
+            </p>
+            <p>This they did in <hi>Scotland</hi> under the <hi>Queen Regent,</hi> and King <hi>James;</hi> and in <hi>England,</hi> un<g ref="char:EOLhyphen"/>der Queen <hi>Elizabeth;</hi> and twice in <hi>Scotland</hi> again, under the <hi>late King;</hi> and after that, in <hi>England:</hi> Two actual Rebellions more in <hi>Scotland,</hi> under <hi>this preſent King,</hi> and now God bleſs us from another <hi>at home;</hi> and all this from that ſort of people that ſtil'd themſelves <hi>Proteſtants.</hi> The <hi>Principles,</hi> the <hi>Methods,</hi> and the <hi>Pretences</hi> the very ſame, from one end to the other.</p>
+            <p>The Story of theſe <hi>Phanatical Conſpiracies</hi> is almoſt as nauſeous as the thing it ſelf is dete<g ref="char:EOLhyphen"/>ſtable; only this laſt in <hi>Scotland</hi> methinks ſeems to crown the Infamy of all the reſt: For a <hi>Party</hi> that calls it ſelf <hi>Proteſtant;</hi> a <hi>Party in full Cry</hi> upon the ſcent of <hi>Popery;</hi> a <hi>Popiſh Plot</hi> upon Oath too, at the ſame time upon the Life of the <hi>King,</hi> upon our <hi>Religion</hi> and <hi>Govern<g ref="char:EOLhyphen"/>ment;</hi> and that <hi>Plot</hi> at that inſtant, under a ſtrict Examination; <hi>the ſame party</hi> at the <hi>ſame time</hi> alſo preſſing for Juſtice upon the Conſpirators, nay, and complaining of the remiſsneſs of the Proſecution, notwithſtanding the moſt exemplary Rigor in the Caſe that ever was known in this Nation: For <hi>this Party,</hi> (I ſay) under theſe circumſtances, to fly in the face of the Government, let the World judge if ever there was a more conſemmated piece of Wicked<g ref="char:EOLhyphen"/>neſs.
+<pb facs="tcp:187985:3"/>
+They raiſe a <hi>Rebellion,</hi> and make <hi>Religion</hi> the <hi>Ground</hi> of it, they declare a <hi>War</hi> againſt the <hi>King,</hi> and the <hi>Church,</hi> and yet write themſelves <hi>Loyal Subjects</hi> and <hi>Proteſtants.</hi> They cry out of the Danger of <hi>Popery,</hi> and yet in the ſame breath, <hi>draw their Swords upon their Prince, in the very attempt of Cruſhing it;</hi> and all theſe Aggravations complicated in one act. Is it not high time then; after an Impoſture that has coſt this Nation ſo dear, to learn at laſt to diſtinguiſh betwixt a <hi>Religion</hi> and a <hi>Faction?</hi> Betwixt what men <hi>are,</hi> and what they <hi>call</hi> themſelves? Is a <hi>Renegado</hi> ever the leſs a <hi>Turk</hi> for putting out <hi>Engliſh Colours?</hi> Are the <hi>Bleſſed Spirits</hi> ever the leſs <hi>pure</hi> for the <hi>Devils</hi> tranſforming himſelf into an <hi>Angel of Light?</hi> Is the <hi>Kings Broad Seal</hi> one jot the leſs valuable for being <hi>counterfeited?</hi> So neither is our <hi>Profeſſion.</hi> And he that diſhonours <hi>Religion,</hi> or invades <hi>Authority</hi> under the Name of a <hi>Proteſtant,</hi> is no more to any ſober man, than a <hi>Goth</hi> or a <hi>Vandal. Judas</hi> his <hi>Betraying</hi> of his Maſter was a moſt ungrateful and abominable Sin, but the doing of it with a <hi>Kiſs,</hi> made it by many degrees the more execrable: And it was the height of the Prophet <hi>Davids</hi> Affliction, the Circumſtance of a <hi>Familiar Friend.</hi> Where's the harm now of ſaying, <hi>Have a care of Falſe Proteſtants:</hi> The <hi>Author and the Finiſher of our Faith,</hi> is (I hope) of Authority ſufficient to juſtifie that Caution. Does not our <hi>Saviour</hi> himſelf tell us that <hi>there ſhall ariſe Falſe Chriſts and</hi> Falſe Prophets? and why not <hi>Falſe Proteſtants:</hi> And does he not bid us <hi>take heed that no man deceive us; for many</hi> (ſays he) <hi>ſhall come in my Name, ſaying I am</hi> Chriſt, <hi>and ſhall deceive many?</hi> Does he not bid us <hi>beware of</hi> Wolves <hi>in</hi> Sheeps Cloathing? And in his deſcription of the <hi>Scribes</hi> and <hi>Phariſees,</hi> give us the very Picture of our <hi>Impoſtors.</hi>
+            </p>
+            <p>We have it upon the Credit of Dr. <hi>Tongue</hi> and Dr. <hi>Oates,</hi> that the Sedition of 1641. was totally contrived and caryed on by <hi>Popiſh Counſels;</hi> and that not only the <hi>Conventicles</hi> in that bloody Revolution, but all our <hi>Separate Meetings</hi> to this day, and particularly the <hi>Scottiſh Commotions</hi> were and are influenced by <hi>Prieſts</hi> and <hi>Jeſuits,</hi> under the Maſque of Profeſſors of thoſe ſeveral Perſwaſions. Have we not reaſon then to uſe all poſſible circumſpection, that we may not be impoſed upon by ſuch as theſe for <hi>Proteſtants?</hi> No man has a greater veneration for the memory of thoſe Proteſtants that ſuffered Martyrdom for their <hi>Faith:</hi> no man a greater <hi>horrour</hi> for the <hi>Iriſh,</hi> the <hi>Pariſian,</hi> &amp; ſeveral other <hi>Maſſacres;</hi> no man a higher eſteem or a more ar<g ref="char:EOLhyphen"/>dent affection for <hi>Proteſtancy</hi> it ſelf, (ſo far as the Profeſſion of the Church of <hi>England</hi> is intended by it) than <hi>I</hi> have. But for thoſe turbulent Spirits that lay about them as if Heaven were to be taken by <hi>actual Violence,</hi> whoſe Zeal outſtrips Chriſtianity it ſelf, impoſing upon the world their own corrupt and impetuous paſſions, inſtead of the healing and pacifique motions of the Holy Ghoſt<hi>:</hi> Theſe are a dangerous ſort of people, and their ways are not only a Contra<g ref="char:EOLhyphen"/>diction to the undeniable Principles of our <hi>Inſtitution,</hi> but to the common Intereſts of <hi>Man<g ref="char:EOLhyphen"/>kind,</hi> as well <hi>Individuals</hi> as <hi>Communities:</hi> for if it be true, that <hi>Charity</hi> is the great Leſſon of the Goſpel<hi>:</hi> If it be true that, <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> in <hi>Faith,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nanimity</hi> in the the things of <hi>Civil Go<g ref="char:EOLhyphen"/>vernment</hi> would make up the moſt perfected Bleſſing that reaſonable Nature is capable of in this Tabernac<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of Fleſh; then muſt it neceſſarily follow, that the nearer we approach to <hi>that Agreement,</hi> the <hi>better Chriſtians</hi> we are, and the <hi>happier Men;</hi> and the further we depart <hi>from it</hi> the more <hi>wicked</hi> &amp; the more <hi>miſerable</hi> we are. This is either true or falſe: If the former, there's no Treaſon in't; if the latter, we may burn our Bibles.</p>
+            <p>Before I wade any further into this Controverſie, it may do well, I think, to give ſome Reaſon, why upon <hi>this Subject</hi> &amp; at <hi>this Time;</hi> that the World may not take that for the Leaven of an unquiet Humour, which in great truth, is only an act of Conſcience in the diſcharge of a ſober and a ſeaſonable duty to my Prince and Country.</p>
+            <p>To the undertaking of this Office, I have been induced, by the audacious Liberties of the Preſs, in the matter of Religion and Government, endeavouring to poſſeſs the Multitude with falſe and pernicious Principles and Opinions, and by artificial Hints and Scandals to diſpoſe them (now toward the meeting of this next Parliament) to a partial and a factious
+<pb n="5" facs="tcp:187985:3"/>
+Choice<hi>:</hi> So that my Buſineſs is only to encounter and lay open the Vanity and Weakneſs of thoſe Libels, and without confining my ſelf to any one in particular, to ſum up the Malice of them all, for ſo much as concerns our preſent purpoſe, and to ſubmit my ſelf to the Rea<g ref="char:EOLhyphen"/>der in a fair and ſhort Reply.</p>
+            <p>It is a Note worthy of conſideration, that all the Papers here in queſtion, (even to a ſingle Sheet) are the Work of Men exceedingly by aſſed againſt the <hi>eſtabliſhed Government, as Repub<g ref="char:EOLhyphen"/>licans, Anabaptiſts,</hi> and other ſorts of <hi>Diſſenters</hi> from the <hi>Church;</hi> for the Publiſhers of theſe Papers are known every one of them, and moſt of the Authors. Now what advice toward the <hi>Honour</hi> and <hi>Safety</hi> of the Government, theſe people are likely to give, who are united in common Principles of <hi>defaming, diſcomp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſing,</hi> and even of <hi>diſſolving</hi> it, let Heaven and Earth be the Judges: And what work ſuch a Houſe of Commons would make, as theſe forward Un<g ref="char:EOLhyphen"/>dertakers would have, if they were to direct and influence the Election.</p>
+            <p>Now if <hi>theſe</hi> be the <hi>Counſellours,</hi> let us ſee next if the <hi>Matter</hi> of their <hi>Writings</hi> be not an<g ref="char:EOLhyphen"/>ſwerable to the <hi>Character</hi> of the <hi>Men;</hi> and if it be not moſt evident that it is their very ſcope and deſign (ſo far from endeavouring the Peace and Settlement of the Nation) to poi<g ref="char:EOLhyphen"/>ſon the people with <hi>ſeditious Maxims;</hi> to create <hi>Jelouſies</hi> betwixt the <hi>King</hi> and his <hi>Subjects,</hi> and to undermine the very Foundation of the Government.</p>
+            <p>They ſupport themſelves with the Multitude, upon two <hi>general</hi> and <hi>popular pretenſions, Re<g ref="char:EOLhyphen"/>ligion</hi> and <hi>Liberty: What Religion,</hi> or <hi>what Liberty</hi> they do not ſay; but only fill the peoples <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eads with a confuſed Notion of things, and wild apprehenſions of <hi>Popery</hi> and <hi>Tyranny:</hi> And <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen their next work is under colour of dating the <hi>Priviledges</hi> of <hi>King</hi> and <hi>People,</hi> to erect <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>editious Poſitions;</hi> and after all, to preſcribe Remedies infinitely worſe than the Diſeaſe. We <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall now make it appear that the <hi>Religion</hi> they talk of, leads to all ſorts of <hi>Impiety;</hi> and that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir pretended <hi>Liberty</hi> is the ready way to <hi>ſlavery. Firſt,</hi> of <hi>Religion.</hi>
+            </p>
+            <p>As to what concerns <hi>Religion,</hi> they do all of them ſing the ſame Song in their <hi>Queries</hi> and <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>opeſals</hi> to the <hi>Freeholders</hi> and <hi>Electors</hi> of <hi>England,</hi> and unanimouſly agree in the ſame me<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hod of Advice to the people, how they are to govern themſelves in their next Choice.</p>
+            <p>Their firſt Caution is, <hi>To purſue the Diſcovery and Puniſhment of the</hi> Plot, <hi>(the</hi> Trojan Horſe <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith an Army in the Belly of it.) To ſecure us from</hi> Popery; <hi>and that no</hi> Papiſt <hi>may be allowed to well in the Land; Nor any man choſen into the</hi> Houſe, <hi>that ſhall dare to open his mouth for a</hi> Popiſh <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ucceſſor: And all this attended with a dreadful Enumeration of the <hi>Maſſacres, Fires, Trea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</hi> and <hi>Devaſtations</hi> that have been wrought by the <hi>Popiſh party.</hi>
+            </p>
+            <p>To this firſt Point, the <hi>Replicant</hi> moſt willingly ſubſcribes, ſo far as ſtands with <hi>Chriſtian <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>harity,</hi> and the <hi>Law of the Land;</hi> But then he cannot forget on the other hand, that the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ounterfeit Proteſtant Horſe</hi> of 1641. <hi>had an Army in the Belly of him,</hi> as well as the <hi>Trojan;</hi> and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that would be ſafe, muſt look both ways at once.</p>
+            <p>Another Caution is, not to chooſe any man that is <hi>Popiſhly affected;</hi> (as another hath it) <hi>affected.</hi> But a third proceeds a little more warily, and recommends the chuſing only of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere Proteſtants,</hi> and not <hi>diſguiſed Papiſts, who are ready to pull of their Moſque, when time ſerves, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d may be known by their</hi> laughing at the <hi>Plot,</hi> diſgracing the Evidence, admiring the Tray<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs Conſtancy, <hi>&amp;c.</hi>
+            </p>
+            <p>This ſame <hi>Popiſhly and ill affected,</hi> lies open to ſeveral Exceptions; for one Man is made <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dge of the Thoughts of another, which is only the Prerogative of Almighty God. I have <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard of a man that was indicted for <hi>Whiſtling;</hi> but never, till now, of any Man that was incapa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ated to ſerve in the Houſe of Commons, for <hi>Thinking.</hi> Beſide the unreaſonable Latitude, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the horrible iniquity of the Judgment; for if this be admitted, no man living can be ſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<hi>:</hi> It involves the Innocent with the Guilty, and puts a man out of all poſſibility to a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it himſelf. And them forward; It is but turning the <hi>Tables,</hi> and the <hi>Blot</hi> is hit on the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſide:</hi> For why ſhould not I be as well allowed to pronounce <hi>another man a</hi> diſguiſed
+<pb n="6" facs="tcp:187985:4"/>
+               <hi>Proteſtant,</hi> as he to judge <hi>me a diſguiſed Papiſt,</hi> and the ſame liberty of marking him too? You ſhall know him by his <hi>Shiboleth,;</hi> for the <hi>old Covenant</hi> ſticks in his Teeth ſtill, and the whole my<g ref="char:EOLhyphen"/>ſtery of his profeſſion is wrapt up in that <hi>Oracle</hi> of the <hi>Priviledges of Parliament; the Kings Iuſt Pow<g ref="char:EOLhyphen"/>er and Greatneſs; the Proteſtant Religion againſt Popery, and Popiſh Innovations;</hi> the firſt point being wholly <hi>incomprehenſible,</hi> and the other two, like <hi>Jugglers Knots,</hi> faſt or looſe at pleaſure.</p>
+            <p>This equal Freedom being granted on all ſides, takes away all Faith, Confidence, and Corre<g ref="char:EOLhyphen"/>ſpondence in humane Society. I know no difference in the world betwixt <hi>one mans Infallibility</hi> and <hi>anothers;</hi> nor any (but in <hi>Terms)</hi> betwixt a <hi>private mans infallibile Light,</hi> and the <hi>Popes infalli<g ref="char:EOLhyphen"/>ble Sentence:</hi> Nor is there any one Uſurpation in <hi>Popery,</hi> that is either <hi>grievous</hi> to the <hi>Conſcience</hi> or <hi>dangerous</hi> to the <hi>Government;</hi> but a man may ſhew very near an <hi>equivalent</hi> of it in <hi>Schiſm.</hi>
+            </p>
+            <p>As to the Marks of diſtinction betwixt a <hi>ſincere Proteſtant</hi> and a <hi>diſguiſed Papiſt;</hi> the Immorality of <hi>Laughing at the Plot,</hi> favours more in my opinion, of an <hi>unmannerly Fool,</hi> than of a <hi>diſguiſed Papiſt;</hi> though for my own part, I am ſo far from <hi>Laughing at it,</hi> that it wounds my ſoul, the very thought on't. <hi>Diſgracing of the Evidence</hi> were ſomething indeed; but to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake a man a <hi>Papiſt</hi> fo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>admiring the Traytors Conſtancy,</hi> that, methinks is very hard, and not anſwerable to what one would expect from an Advocate for Liberty of Conſcience. It is much eaſier to relinquiſh an <hi>Opinion,</hi> tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for a man to deveſt himſelf of <hi>natural Affection;</hi> and more unreaſonable to <hi>claim</hi> a freedom in th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>one,</hi> than to <hi>refuſe</hi> it in the <hi>other.</hi> I muſt confeſs, <hi>I do admire that Conſtancy,</hi> and if I were to dye fo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo doing, I could not but <hi>admire</hi> it ſtill: And theſe Impreſſions are humane, and not to be reſiſted<g ref="char:punc">▪</g>
+            </p>
+            <p>We fall now into the old Track of the whole party: They call for <hi>Toleration;</hi> complain o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>perſecution;</hi> caſt all their Sufferings upon their <hi>worſhipping according to their Conſciences;</hi> and the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this lamentable condition of theirs muſt be <hi>remonſtrated to the whole Nation.</hi> Of theſe four point<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in order.</p>
+            <p>In the handling of their <hi>plea for Proteſtant Diſſenters,</hi> there are many things to be taken into co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſideration. <hi>Firſt,</hi> Is it in matters of <hi>conſcience,</hi> or only of <hi>phanſie,</hi> wherein they deſire to be <hi>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dulg'd?</hi> If the <hi>latter,</hi> the upholding of a <hi>Law</hi> is certainly of much greater concern, than the gra<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fying of a <hi>Caprice.</hi> Now on the <hi>other</hi> ſide, if they demand it upon an exigen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Conſcience: Fir<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> why <hi>plurally,</hi> for <hi>Diſſenters?</hi> When <hi>one</hi> man cannot honeſtly undertake for <hi>another mans Conſcienc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Beſides that <hi>(Secondly)</hi> they a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k an <hi>Indulgence</hi> for <hi>ſeveral parties,</hi> of <hi>divided Conſciences</hi> and <hi>Opinion</hi> And in ſhort, <hi>they</hi> would have the Magiſtrate favour <hi>all the Conſciences,</hi> that will not endure <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> anothers. Again;</hi> They ſhould do well to explain what they mean by <hi>Proteſtant Diſſenters,</hi> up<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> points of <hi>Conſcience;</hi> whether <hi>all</hi> in <hi>general,</hi> or only <hi>ſuch and ſuch parties:</hi> If <hi>all</hi> in <hi>general, Heathe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> muſt be tolerated as well as <hi>Chriſtians,</hi> for <hi>they</hi> have <hi>Conſciences</hi> as well as <hi>we:</hi> Or if it be reſtrai<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to <hi>Chriſtianity,</hi> it opens a door to <hi>Hereſies,</hi> more deteſtable then <hi>Paganiſm it ſelf.</hi> So that <hi>an <g ref="char:V">Ʋ</g>niv<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſal Toleration</hi> is utterly <hi>unlawful;</hi> &amp; a <hi>partial Toleration</hi> on the other hand, is as <hi>ineffectual;</hi> for up<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a plea of <hi>Conſcince</hi> they may <hi>all claim alike:</hi> So that it is an <hi>Act of <g ref="char:V">Ʋ</g>niformity</hi> ſtill, to thoſe that <hi>exclud<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d;</hi> and it is not fair, in the Government, to <hi>favour one <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alf,</hi> and <hi>exaſperate another,</hi> wher<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may as well be taken in, as <hi>any<g ref="char:punc">▪</g>
+               </hi> Beſide, upon the ſuppoſal of a <hi>limited Toleration,</hi> who ſhall ju<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which are fit to be admitted, and which not? If the <hi>People,</hi> every man juſtifies himſelf, and t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we are upon an <hi>univerſal Toleration</hi> again. They tell us ſtories of <hi>ſound Faith, good Life,</hi> an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſtinguiſhing betwixt <hi>Fundamentals</hi> and <hi>not Fundamentals;</hi> which is only treading of the ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ring ſtill; for it may be <hi>every bodies plea</hi> as well as <hi>any mans:</hi> That which the <hi>Magiſtrate</hi> judges <hi>one</hi> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the people ſhall determine another; <hi>and one mans fundamental Truth</hi> ſhall be <hi>anothers funda<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tal Error,</hi> which will introduce as many <hi>Religions</hi> as <hi>phanſies;</hi> bring <hi>Factions</hi> into <hi>Families</hi> as<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as into <hi>Governments,</hi> and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake the people both <hi>parties</hi> and <hi>Judges:</hi> And it is not to ſay tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Word of God ſhall be the Judge;</hi> for that's only a <hi>Rule</hi> by which we are to judge; and by <hi>erro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> judgments</hi> it is made the <hi>foundation</hi> of all <hi>Hereſies; For when every man may make</hi> his own <hi>O<g ref="char:EOLunhyphen"/>ther's nothing ſo impious, but he'l ſhew you a</hi> Text <hi>for't.</hi> Moreover, the very <hi>pretence</hi> of <hi>Lib<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Conſcience</hi> is <hi>f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivolous;</hi> for <hi>Conſcience</hi> is out of the reach of <hi>humane power;</hi> and the <hi>freedom</hi> of <hi>th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no Law</hi> can either <hi>puniſh</hi> or <hi>take away.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:187985:4"/>
+But it is the <hi>liberty</hi> of <hi>acting,</hi> as well as of <hi>thinking,</hi> that they inſiſt upon, which upon the whole matter, is neither more nor leſs than a <hi>Licence to do what they pleaſe.</hi> The <hi>League</hi> in <hi>Flanders,</hi> under <hi>Maximilian:</hi> the <hi>holy League</hi> under <hi>Henry</hi> the 3d of <hi>France; Muncers Outrages</hi> in <hi>Germany;</hi> the <hi>Mur<g ref="char:EOLhyphen"/>therers</hi> of <hi>Henry</hi> the 4<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h. and the P. of <hi>Orange;</hi> and all the Villanies of the late times here at home, were acted under the <hi>Maſque</hi> of <hi>Religion.</hi> It is not for the reſtraining of <hi>Opinions</hi> that <hi>Laws</hi> are pro<g ref="char:EOLhyphen"/>vided; but for the preventing of <hi>Overt deeds of Violence,</hi> and they are puniſhed for <hi>Action,</hi> not for <hi>Conſcience.</hi> Neither have we any means of diſtinguiſhing betwixt Faction and Religion, if every mans word ſhall be taken for his own Conſcience; and then it is a dangerous way of dividing a Kingdom againſt it ſelf.</p>
+            <p>Take notice all this while, that they urge a Toleration, no body knows for whom, or for what. Where are their Arcicles? where is the Model of their Accommodation? or how is it poſſible to contrive any common Expedient to gratifie them? For nothing leſs than a total Liberty of doing what they liſt, will pleaſe them, which muſt inevitably produce the <hi>Diſsolution</hi> of the <hi>Government.</hi> If they would have the wilder and more extravagant Sects excluded, why do they plead for <hi>All</hi> in general, and not rather particulariſe the Opinions and Parties that they would have indulg'd? But they dare not do <hi>this,</hi> for fear of diſobliging the <hi>reſt,</hi> their buſineſs being to unite all Factions in the quarrel; when yet you may as ſoon bring <hi>Heaven</hi> and <hi>Hell</hi> together, as reconcile them in <hi>Re<g ref="char:EOLhyphen"/>ligion;</hi> ſo that either they ask an impious thing, in the allowance of all, or a impracticable thing in propounding any Limitation, upon a Plea of Conſcience. But the truth is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o more than this: They ask a thing which can neither be granted, nor ſo much as underſtood; and the people are tranſported with the ſound of <hi>Loyalty</hi> and <hi>Religon,</hi> to the deſire of things wholly inconſiſtent with either <hi>Piety</hi> or <hi>Government.</hi>
+            </p>
+            <p>We ſhould do well to take notice, that againſt <hi>this plea</hi> for <hi>Liberty,</hi> there is one on the one ſide, the Authority of Law, and the ſolemn Judgment of the Church for the Equity of it; and on the other, the Kings <hi>perſonal</hi> and <hi>political Conſcience</hi> for the <hi>Execution</hi> of it. There is alſo the <hi>Duty</hi> of a <hi>Subject</hi> for the <hi>Obeying</hi> of it; and the ſame reaſon that authorizes an <hi>Invaſion</hi> of <hi>this Law,</hi> may as well <hi>invalidate all the reſt.</hi> Now the <hi>Counterpoize</hi> to all this weight, is (at beſt) only the naked Conſcience of ſome private perſons. The peoples Conſciences call for <hi>Liberty;</hi> and the <hi>Governors Conſcience</hi> requires <hi>Order: Their Conſciences</hi> will not down with <hi>this Law,</hi> nor <hi>this Law</hi> with <hi>ſuch Conſciences: Which</hi> of the <hi>two</hi> now ſhall <hi>yield</hi> to the <hi>other?</hi>
+            </p>
+            <p>But what <hi>benefit</hi> might we now expect from this <hi>Indulgence</hi> here, if it were <hi>granted?</hi> Or rather, in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he firſt place, what colour of Conſcience or of reaſon is there in the very <hi>demand</hi> it ſelf (all the afore<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid Exceptions over and above?) Is it firſt reaſonable for them to ask what they themſelves think unreaſonable to grant? Or to claim ſuch an allowance to themſelves, as a point of Conſcience, which they themſelves, upon a point of Conſcience refuſe to others? For there is not any one <hi>party</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the whole maſs of <hi>Diſſenters,</hi> that does not deny the ſame <hi>freedom</hi> to <hi>others</hi> which they do joynt<g ref="char:EOLhyphen"/>ly <hi>challenge</hi> to <hi>themſelves:</hi> Nay, in their very <hi>Propoſitions</hi> to his Majeſty in the <hi>Iſle of Wight, Mar.</hi> 1647. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey <hi>excepted</hi> the Uſe of the <hi>Common Prayer,</hi> when they gave <hi>Liberty to all other ſorts of Worſhip.</hi> (To which <hi>Conceſſion</hi> they were then <hi>compell'd</hi> by the Circumſtances of that <hi>juncture.)</hi> Their <hi>Refuſal</hi> muſt proceed either upon the <hi>Right</hi> of the thing, or upon <hi>Reaſon of State.</hi> If <hi>they</hi> did not like <hi>our way,</hi> neither do <hi>we</hi> approve of <hi>theirs:</hi> Or if if they <hi>excluded</hi> us out of a reſpect to the <hi>publik peace,</hi> the Government hath ſtill the <hi>ſame reaſon</hi> againſt <hi>them.</hi>
+            </p>
+            <p>But we ſhall better underſtand the Party, from their <hi>own words,</hi> wherein we ſhall <hi>firſt</hi> take a ſhort view of their <hi>Opinions</hi> in matter of <hi>Fatith</hi> and <hi>Religion. Secondly,</hi> How they ſtand affected, <hi>one party</hi> to <hi>another:</hi> And <hi>thirdly,</hi> Their <hi>poſitions</hi> and <hi>practiſes,</hi> with Relation to the <hi>Civil Govern<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>As to their <hi>Opinions, firſt,</hi> ſee ſome Extravagances of the <hi>Sectaries,</hi> Cited by a <hi>Preſbyterian,</hi> out of <hi>their own Writings,</hi> in <hi>Edwards</hi>'s <hi>Gangrena,</hi> from <hi>p.</hi> 18. to 27.</p>
+            <p>
+               <pb facs="tcp:187985:5"/>
+They ſay that <hi>the</hi> Scriptures <hi>are</hi> inſufficient <hi>and</hi> uncertain. God <hi>the Author of</hi> Sin, <hi>even of the</hi> 
+               <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>neſs it ſelf<g ref="char:punc">▪</g> That <hi>the</hi> Magiſtrate <hi>ought not to</hi> puniſh <hi>any man for denying of a</hi> God, <hi>if his</hi> Conſcience <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſo perſwaded.</hi> That every Creature <hi>is</hi> God, <hi>an</hi> Efflux <hi>only</hi> from God, <hi>and ſhall</hi> return to him: That <hi>there is but</hi> O<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Perſon <hi>in the</hi> Divine Nature. That <hi>the</hi> leaſt Truth <hi>is of more worth than</hi> Jeſus Chriſt himſelf. That <hi>the</hi> Doctrine of Repentance <hi>is a</hi> Soul-deſtroying Doctrine. That <hi>'tis as poſſible for</hi> Chriſt himſelf <hi>to</hi> Sin, <hi>as for a</hi> Child of God <hi>to</hi> Sin. That <hi>the</hi> Moral Law is of no uſe <hi>at all to</hi> Be<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vers. That Pe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers <hi>trouble, after the denyal of his</hi> M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſter; <hi>iſſued only from the</hi> weakneſs of his Faith. That Infants riſe not again. Nay, he ſpeaks of a Sectary <hi>pleading for a</hi> Toleration <hi>of</hi> W<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tches, with ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>veral abominable Inſtances. And he charges the Nurſery <hi>and</hi> Encreaſe <hi>of them upon the</hi> Presbyte<g ref="char:EOLhyphen"/>rians; <hi>and that it was</hi> their Indulgence, <hi>not</hi> Epiſcopal connivance <hi>that wrought our Miſchief in that kind. They agree</hi> (ſays he) <hi>with</hi> J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lian <hi>the</hi> Apoſtate, Libertines, Athieſts, Unclean, Inceſtuous, Drun<g ref="char:EOLhyphen"/>k<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rds, Sabbath-breakers, Lyers, Jugglers, Slanderers, proud <hi>and</hi> boaſting, inſolent, outrageous, Hy<g ref="char:EOLhyphen"/>pocritical, falſe.</p>
+            <p>The S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctaries on the other hand call <hi>the</hi> Aſſembly, Antichriſtian, Romiſh, Bloody, Plagues <hi>and</hi> Peſts <hi>the Kingdom,</hi> Baals Prieſts, Southſayers: <hi>The</hi> Pre<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>byterian Government a <hi>Limb of</hi> Antichriſt, Tyrannical, Lordly, <hi>an</hi> Aegyptian Bondage. An Anabaptiſt ſaid, <hi>He hoped to ſee Heaven and Earth on fire, before</hi> Presbytery <hi>ſhould be ſettled; and to ſee it trodden under foot, as the</hi> Biſhops. Ster<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>himſelf ſays,</hi> The Seed of God <hi>hath two</hi> Capital Enemies, Romiſh Papacy, <hi>and the</hi> Scotch Presbytery. <hi>See what the</hi> Presbyterians <hi>ſay now to</hi> Toleration.</p>
+            <p>
+               <hi>It is much (ſays the</hi> London Miniſters <hi>Letter to the</hi> Aſſembly,) <hi>Jan.</hi> 1. 45. <hi>that our Brethren ſhould</hi> ſeparate <hi>from the Church, but that they ſhould endeavour to get a</hi> Warrant <hi>to</hi> authorize <hi>their</hi> Separation <hi>from it; and to have Liberty (by drawing Members out of it) to weaken and diminiſh it, till (ſo far as lies in them) they have brought it to nothing. This we think to be plainly unlawful.</hi>
+            </p>
+            <p>
+               <hi>And then the</hi> Harmony <hi>of the</hi> Lancaſhire Miniſters, <hi>p.</hi> 12. Toleration <hi>would be the putting the Sword in a mad mans hand, a proclaiming</hi> Liberty <hi>to the</hi> Wolves, <hi>to come into</hi> Chriſts Flock, <hi>to prey upon his</hi> Lambs.</p>
+            <p>Toleration m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes the Scripture a Noſe of Wax; a Rule of Faith to all Religions. And this is the great Rabby of the <hi>party.</hi> Rutherfords free Diſp. <hi>p.</hi> 360.</p>
+            <p>Liberty <hi>of</hi> Conſcience, <hi>and</hi> Toleration <hi>of</hi> all, <hi>or</hi> any Religion, <hi>is ſo prodigious an</hi> Impiety, <hi>that this Religious Parliament cannot but abhor the very</hi> naming <hi>of it.</hi> Baileys Diſſwaſive Epiſt. Ded. 1645.</p>
+            <p>
+               <hi>It is unreaſonable (ſays the Defender of the</hi> London Miniſters <hi>Letter to the</hi> Aſſembly, Anti-tolera<g ref="char:EOLhyphen"/>tion, <hi>p.</hi> 16) <hi>that</hi> Indep<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndents <hi>ſhould</hi> deſire that Toleration <hi>of</hi> Presbyters, <hi>which they would not</hi> give <hi>to</hi> Presbyters.</p>
+            <p>Let it be obſerved from hence, that theſe people do firſt <hi>demand of the Government that Liberty</hi> which they <hi>deny</hi> to <hi>one another.</hi> And <hi>Secondly,</hi> That they pretend to do it upon <hi>Conſcience,</hi> and yet hold the thing it ſelf to be <hi>abſolutely unlawful;</hi> ſo that they <hi>juſtifie</hi> the <hi>Conſcience</hi> of <hi>our denying it</hi> to <hi>them,</hi> by the <hi>Conſcience</hi> of their <hi>refuſing</hi> it to <hi>others.</hi> And the only way to evade this, is to diſcover all by confeſſing, that though they now beg a <hi>Toleration</hi> from the <hi>Government,</hi> yet if they get power in their hands, they'l make a <hi>Conſcience</hi> again (as they did before) of <hi>allowing</hi> any <hi>freedom</hi> to the <hi>Go<g ref="char:EOLhyphen"/>vernment.</hi>
+            </p>
+            <p>It is a <hi>n</hi>lear caſe, that their <hi>demands</hi> are <hi>unwarrantable, impracticable, unreaſonable,</hi> and not groun<g ref="char:EOLhyphen"/>ded upon <hi>Conſcience,</hi> but directly in <hi>oppoſition</hi> to it; as we have it under their own hands.</p>
+            <p>Let us try now if we can diſcover what the deſign <hi>is,</hi> ſince it appears manifeſtly what it is <hi>not;</hi> and that, not only from the <hi>reaſon</hi> of the thing, but from their <hi>own deeds</hi> and <hi>writings;</hi> and thoſe <hi>matters</hi> alſo, and <hi>poſitions,</hi> expounded by <hi>practiſe.</hi>
+            </p>
+            <p>One thing remarkable is this; That they have been ſtill <hi>fiſhing in troubled Waters,</hi> and taking ad<g ref="char:EOLhyphen"/>vantage of all D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtreſſes, and neceſſities of the Government. Did not <hi>Cartwright, Coppinger, Ar<g ref="char:EOLhyphen"/>thington</hi> and <hi>Hacket,</hi> take their time for that <hi>exeerable Conſpiracy</hi> againſt Q. <hi>Elizabeth,</hi> when ſhe was juſt upon the very point of ſecuring the <hi>reformed Religion</hi> againſt the <hi>Power</hi> and <hi>Church</hi> of <hi>Rome?</hi>
+               <pb facs="tcp:187985:5"/>
+Did not the <hi>Sectaries</hi> in 1641. take the ſame advantage againſt the <hi>late King,</hi> when his thoughts were wholly taken up about ſuppreſſing the <hi>Iriſh Rebellion?</hi> And did not the latter <hi>Scotch Tumults</hi> take the ſame advantage of his Majeſties being under many troubleſome Circumſtances about the <hi>Plot;</hi> and when the peoples minds were prepared to take ill Impreſſions in the matter of Govern<g ref="char:EOLhyphen"/>ment? So that the very <hi>timeing</hi> of this revived <hi>Clamour</hi> for <hi>Liberty</hi> of <hi>Conſcience,</hi> looks ſuſpiciouſly; and the more, becauſe their Meetings here have of late been very little interrupted.</p>
+            <p>To run through thoſe peſtilent <hi>principles,</hi> which the Heads of the <hi>Sectaries</hi> have publiſh'd in their own names, were endleſs, Wherefore I ſhall content my ſelf with ſome of their <hi>general poſitions,</hi> and refer the Reader to <hi>Husbands Collections,</hi> or the <hi>Authors themſelves</hi> for the reſt; as <hi>Milton, Good<g ref="char:EOLhyphen"/>win, Rutherford,</hi> and a hundred more.</p>
+            <p>They make the <hi>Lords</hi> and <hi>Commons</hi> the <hi>ſupream Power;</hi> nay, the <hi>people themſelves</hi> in ſome caſes; <hi>Princes,</hi> they ſay, may be <hi>depoſed</hi> and put to <hi>death:</hi> They diſtinguiſh betwixt the Kings <hi>perſon</hi> and his <hi>authority,</hi> the <hi>Letter</hi> of the <hi>Law,</hi> and the <hi>Equity</hi> of it; and appeal from the <hi>written Law</hi> to the <hi>Law of Nature;</hi> and according to <hi>theſe maxims</hi> they govern their <hi>proceedings.</hi>
+            </p>
+            <p>But will you ſee now the price of all our <hi>Blood,</hi> and <hi>Confuſion?</hi>
+            </p>
+            <p>Upon their Petition to his Majeſty for a <hi>Reformation</hi> of the <hi>Liturgy,</hi> the King moſt graciouſly iſ<g ref="char:EOLhyphen"/>ſued out a <hi>Commiſſion</hi> for a <hi>Review</hi> of the Book of <hi>Common Prayer:</hi> An equal number of learned Divines, both <hi>Epiſcopal</hi> and <hi>Presbyterian</hi> were appointed to meet about it, and <hi>to agree upon ſuch Alterations as ſhould be thought moſt neceſſary.</hi> His Majeſty earneſtly deſiring that the Miniſters would not <hi>totally lay aſide the Book of Common Prayer, but read thoſe parts againſt which there could be no Exception.</hi> Now inſtead of <hi>moſt neceſſary Alterations,</hi> and thoſe to be agreed upon by <hi>both Par<g ref="char:EOLhyphen"/>ties,</hi> they publiſhed a <hi>new Liturgy</hi> of their <hi>own,</hi> under the Title of <hi>the Reformation of the Liturgy,</hi> (which is indeed the <hi>Abolition</hi> of it.) I'le give ye only a taſt of ſome of their <hi>important ſcruples</hi> that are caſt into the ballance, againſt the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of the <hi>Church,</hi> and the <hi>Peace</hi> of the <hi>Kingdom:</hi> They turn <hi>Wedded Wife</hi> into <hi>Marryed: Doſt thou Believe</hi> into <hi>Do you Believe;</hi> and <hi>all this I ſtedfaſtly Believe,</hi> into <hi>this I do unfeignedly Believe.</hi>
+            </p>
+            <p>Let us now ſuppoſe theſe people had their <hi>Askings:</hi> Let any man but ſhew me from the <hi>Minority</hi> of K. <hi>James,</hi> to this hour, where they were not the more violent and importune upon yielding (even to the hazard of a downright Rebellion) &amp; the Author ſhall give any man his Head, for the Preſident<hi>:</hi> Did not the <hi>Aſſembly</hi> in 1578. impoſe upon the <hi>Parliament</hi> in <hi>Scotland,</hi> fall foul upon the Archbiſhop of <hi>Glaſgow,</hi> and the <hi>whole Order?</hi> paſs a <hi>Decree</hi> againſt their votes in <hi>Parliament,</hi> command them to renounce their <hi>Temporal Titles,</hi> &amp; <hi>Civil Juriſdiction,</hi> &amp; ſet their <hi>Quarriers</hi> at work for the demoliſh<g ref="char:EOLhyphen"/>ing of <hi>Glaſgow Cathedral?</hi> (which had been done too, if the <hi>Tradeſmen</hi> had not by force prevented it.) And did they not grow bolder and bolder upon the Kings Lenity; and command the <hi>Biſhops,</hi> upon pain of <hi>Excommunication,</hi> not to officiate as <hi>Paſtors,</hi> without <hi>Licence</hi> from the <hi>General Aſſembly;</hi> and likewiſe order the Patrimony of the <hi>Church</hi> to be diſpoſed of as they ſhould ſee meet? And did they not after that, make a violent and treaſonous Seizure of the <hi>King</hi> at <hi>Ruthven,</hi> and juſtifie it when they had done? And ſo on by degrees, till his Majeſty was forc'd, by a Tumult at <hi>Edenbourgh,</hi> in 1596. and <hi>the Miniſters Bond of Confederacy</hi> immediately upon it, to a Reſolution of <hi>rigour</hi> and <hi>ſe<g ref="char:EOLhyphen"/>verity;</hi> which (as <hi>Spottſwood</hi> obſerves) gave him more quiet and ſecurity for the future.</p>
+            <p>His Majeſty was no ſooner enter'd upon the Government of <hi>England,</hi> but he was aſſaulted in 1604. with the ſame ſort of people, and at a Conference at <hi>Hampton Court,</hi> this Quſtion was put, <hi>How far an</hi> Ordinance of <hi>the</hi> Church <hi>was</hi> binding, without offence to <hi>Chriſtian Liberty?</hi> Where<g ref="char:EOLhyphen"/>upon the King gave this ſhort Anſwer, <hi>Let's have no more of theſe Queſtions, but</hi> conform <hi>at your pe<g ref="char:EOLhyphen"/>ril.</hi> So that they gave him no further trouble upon that ſubject. And this was Queen <hi>Elizabeth</hi>'s caſe too, to the hazard both of her Life and Government; till by that ſevere <hi>Act</hi> againſt them, of the Thirty fifth of her Reign, ſhe gave her ſelf eaſe for the remainder of her Life.</p>
+            <p>What did the <hi>late King</hi> gain by his <hi>Indulgence</hi> to the <hi>Scots</hi> in 1637. but farther <hi>Indignities</hi> and <hi>Contempt? Firſt,</hi> the <hi>Service-Book</hi> and <hi>Canons</hi> were their Grievance; <hi>then</hi> the <hi>Five Articles</hi> of
+<pb facs="tcp:187985:6"/>
+               <hi>Perth,</hi> though eſtabliſhed both by the <hi>General Aſſembly</hi> and, <hi>Parliament;</hi> The <hi>High Commiſſion next</hi> and <hi>then</hi> the <hi>Biſhops Seſſion</hi> in <hi>Civil Judicatories.</hi> His Majeſty gratifie<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them in every point: Inſo<g ref="char:EOLhyphen"/>much, that they had nothing further to complain of, but that the King would not <hi>aboliſh Epiſco<g ref="char:EOLhyphen"/>pacy,</hi> and <hi>admit</hi> the Authority of their <hi>Lay-Elders;</hi> upon which point they brake out into an <hi>open Rebelion.</hi> After this, upon the Interview of the two Armies at <hi>Berwick</hi> (when the King had them abſolutely at his mercy) upon their Supplication for a Treaty, he truſted them again, and con<g ref="char:EOLhyphen"/>cluded upon a <hi>Pacification;</hi> of which, the <hi>Covenanters</hi> did not keep ſo much as <hi>one A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ticle.</hi>
+            </p>
+            <p>Upon his Majeſties return to <hi>London,</hi> he paſſes the <hi>Triennial Bill;</hi> aboliſhes the <hi>Star-Chamber</hi> and <hi>High Commiſſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n-Court;</hi> paſſes an <hi>Act</hi> for the <hi>Continuance</hi> of the <hi>Parliament;</hi> and in fine, denys them nothing but his <hi>Crown</hi> and his <hi>Blood,</hi> and then by virtue of what he had given them already, they took away the reſt, and ſtript him of his <hi>Friends,</hi> his <hi>Authority,</hi> his <hi>Revenue,</hi> and his <hi>Life.</hi>
+            </p>
+            <p>They miniſter great cauſe of ſuſpicion in their very <hi>ſtile</hi> and <hi>ſcruples:</hi> Why do they run ſo much upon <hi>ambiguities?</hi> As the ſettling of Religion in its <hi>due latitude; a due</hi> &amp; <hi>neceſſary Reformation; found Relief; Principles congruous to a National Settlement;</hi> the Kings <hi>Iuſt</hi> Rights; <hi>Importance of Intereſts; Stated Order in the Church,</hi> &amp;c. What is all this, but a jumbling together of ſo many Amuſements, to paſs a colourable pretence upon the people? And it ſignifies juſt nothing, but what Conſtruction they ſhall think fit to allow it. If they would offer any <hi>pertinent, intelligible</hi> and <hi>practicable Propoſition;</hi> and ſay, what <hi>Injunctions</hi> they would have abated; what <hi>Parties</hi> they would recommend for theſe qualifications; <hi>where</hi> to <hi>find</hi> them, and <hi>who</hi> ſhall <hi>judge</hi> of them. If they would <hi>ſtate</hi> their <hi>Demands,</hi> and ſay, <hi>This is all we ask;</hi> and then reſt there: If, 28 they plead for <hi>all Diſſenters,</hi> they would produce ſome <hi>common Inſtrument,</hi> or <hi>Commiſſion,</hi> to ſhew that they are <hi>au<g ref="char:EOLhyphen"/>th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riz'd</hi> by <hi>all</hi> to ſolicite in <hi>their Names,</hi> and to treat upon <hi>ſuch</hi> or <hi>ſuch Points;</hi> and to <hi>go no further,</hi> the buſineſs might be brought yet to ſome rational iſſue.</p>
+            <p>As their <hi>Stile</hi> is exceeding <hi>dark</hi> and <hi>myſterious,</hi> ſo are their <hi>Scruples</hi> of an <hi>extraordinary Quality</hi> too. They cannot <hi>kneel</hi> at the <hi>Sacrament,</hi> but they can <hi>hold up their hands</hi> at the <hi>Covenant;</hi> they can <hi>diſpenſe</hi> with the Oath of <hi>Allegiance,</hi> and yet make a <hi>ſcruple</hi> of diſclaiming the <hi>Solemn League:</hi> They can <hi>ſwallow</hi> a <hi>Schiſm</hi> (or worſe) and yet a <hi>Ceremony</hi> choaks them. Add to all this; many of thoſe very perſons that promoted our <hi>former Troubles, this very way,</hi> are now at work again upon the <hi>ſame pretenſion;</hi> and may, without breach of Charity, be ſuſpected to have the ſame deſign, and to remain in a ſtate of <hi>impenitency,</hi> if they have not manifeſted their <hi>Repentance</hi> by ſome <hi>open Recantation:</hi> For (according to the <hi>Caſuiſts) publique ſins require publick confeſſions.</hi>
+            </p>
+            <p>It is an ill ſign too, for a man to leap upon the ſudden, from matter of <hi>Conſcience</hi> to <hi>Reaſon of State;</hi> and in the ſame breath, of a <hi>petitioner</hi> to become a <hi>reformer.</hi> It would ſeem a ſtrange thing, for a man to requeſt a ſpecial favour from the Maſter of a Family, and at the ſame time to put af<g ref="char:EOLhyphen"/>fronts upon his Domeſticks, and to tell him that his Servants were all of them a pack of Raſcals; which is not much from the point in hand.</p>
+            <p>We have had abundance of <hi>Advice</hi> to the <hi>Free-holders</hi> of <hi>England,</hi> toward the Choice of this next Parliament; as <hi>Sober and ſeaſonable Quaeries,</hi> Englands <hi>great Intereſt, the Freeholders Choice,</hi> and <hi>twenty more;</hi> and all of them agreeing in the <hi>general Heads</hi> one with another: They tell us who are <hi>fit</hi> to be choſen, and who <hi>not.</hi>
+            </p>
+            <p>
+               <hi>The</hi> former <hi>ſuch as will</hi> remove <hi>and bring to</hi> Juſtice evil Counſellors, corrupt and arbitrary Mini<g ref="char:EOLhyphen"/>ſters of State; <hi>detect</hi> and <hi>puniſh</hi> the Penſioners of the former Parliament <hi>in the face of the Kingdom, and they muſt chuſe ſuch as will ſecure us from</hi> Slavery.</p>
+            <p>The people are directed on the <hi>other ſide,</hi> not <hi>to chuſe a man that has been</hi> reputed a Pentioner, <hi>no</hi> Court-Officer, <hi>or whoſe Employment is</hi> durante bene placito; <hi>no</hi> ambitious men, <hi>or</hi> Non-reſi<g ref="char:EOLhyphen"/>dents, <hi>that live here in Town, and ſeek Honour and preferments</hi> above.</p>
+            <p>This is the Counſel of <hi>Englands grand Intereſt:</hi> And methinks, in theſe Qualifications, there is both too <hi>much,</hi> and too <hi>little.</hi> As to the point of <hi>Evil Counſellors, corrupt Miniſters</hi> and <hi>Penſioners,</hi> he ſhould have done well to have advi'sd them all manner of <hi>caution</hi> and <hi>circumſpection,</hi> for fear
+<pb facs="tcp:187985:6"/>
+of miſtaking their Men. This was the way that brought the Earl of <hi>Strafford,</hi> and the Arch-Biſhop of <hi>Canterbury</hi> to their Ends. under the notion of evil Counſellors too, though perhaps the moſt ne<g ref="char:EOLhyphen"/>ceſſary Inſtruments that ever this Nation enjoyed, for the Common Good both of King and peo<g ref="char:EOLhyphen"/>ple. So that as it is a great Service to bring corrupt Miniſters to publick Juſtice, it is yet a lewd method to make the Rabble the Executioners, and to puniſh Male-Adminiſtration by <hi>Sedition:</hi> For in this caſe the good and the bad fall indifferently without diſtinction; and inſtead of drawing here and there a piece of rotten Timber toward a Reparation, they fall foul upon the main pillars and ſupporters of the Houſe; ſo that all falls into ruins. And then the mark of a <hi>Reputed Penſioner</hi> goes a little too far; for it lies in the power of two or three malevolent Tongues to make any man ſo. They that made the laſt King a reputed Papiſt, ſhall much more eaſily make any of his Majeſties Subjects paſs for reputed Penſioners.</p>
+            <p>The total Excluſion of all <hi>Court-Officers,</hi> or <hi>Bene-placito-men,</hi> is yet worſe: For this ſets up a direct Oppoſition betwixt the King and his people; as who ſhould ſay, Truſt no body that wears any Token of the Kings favour. And the ſame reaſon diſables him as well to any other Truſt whatſoever: So that the Kings Countenance is a kind of Incapacity. And it is the ſame thing with thoſe he calls Ambitious Men; as if any Application to his Majeſty made a man unfit for the Service of his Country. He ſhould have done well to have warn'd them againſt the known Enemies of the Government, rather then the ſuſpected Servants of the King.</p>
+            <p>
+               <hi>The Free-holders Choice</hi> is a very <hi>Martin Mar-Prelate.</hi> His Language againſt the Clergy is too courſe for an honeſt man to repeat after him, but he has ranged them in good Company; for he ſays that <hi>they lay out themſelves, to accommodate their Maſters with the verieſt</hi> Villains <hi>that can be pick'd up in all the Country; that ſo we may fall into the hands again of as treacherous</hi> and <hi>lewd</hi> a <hi>Parliament as the</hi> Wiſdom <hi>of</hi> God, <hi>and</hi> Folly <hi>of</hi> Man <hi>has moſt miraculouſly freed us from.</hi> Methinks ſome of the Members of that Parliament ſhould concern themſelves to call for Juſtice upon ſo foul a Scandal.</p>
+            <p>The Author of the <hi>Seaſonable Quaeries</hi> does not only recommend the ſame Cautions with the reſt, but calls his Majeſty himſelf to Shrift, and puts the <hi>Queſtion, whether</hi> Prorogation and Diſſo<g ref="char:EOLhyphen"/>lution <hi>of</hi> Parliaments, <hi>at ſuch a time as this, does not fill the hearts of</hi> Proteſtant Subjects <hi>with evi<g ref="char:EOLhyphen"/>dent fears of deſtruction?</hi>
+            </p>
+            <p>And <hi>Secondly</hi> (ſays he) <hi>Whether it be not high time for all the</hi> Proteſtants <hi>in</hi> England, <hi>to</hi> reſolve <hi>as</hi> one man, <hi>that they will it and by, and maintain the</hi> Power <hi>and</hi> Priviledges <hi>of</hi> Parliament, together with the <hi>Power</hi> and <hi>Iuſt Rights of the</hi> King, <hi>according to the Laws of the Kingdom, ſo as the One may not intrench upon th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Other.</hi>
+            </p>
+            <p>The former <hi>Exp<gap reason="illegible" resp="#APEX" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ation</hi> upon the Reaſon of the Kings Proceedings, would have been more taken notice of perhaps, if it had not been followed with one of the moſt audacious Challenges that this Licentious ſeaſon has produced; for the meaning of it is, to incourage a direct <hi>Riſing,</hi> as if the <hi>King</hi> and <hi>the Parliament were going together by the Ears,</hi> (forgive the Expreſſion) and the <hi>people</hi> to in<g ref="char:EOLhyphen"/>terpoſe, to ſee <hi>fair play.</hi>
+            </p>
+            <p>This is the very Trace of the Old <hi>Covenant:</hi> They muſt reſolve to maintain <hi>no body knows what</hi> on the one ſide; (for the <hi>Priviledges of Parliament</hi> are paſt finding out:) But then they are to ſtand by the <hi>King,</hi> on the other ſide, with a <hi>Limitati<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n;</hi> only in his <hi>Iuſt Rights,</hi> and of thoſe Bounds, they themſelves are to be the Judges. This <hi>Epithete</hi> was applyed to the late Kings Caſe, by thoſe very men that cut off his Head.</p>
+            <p>The Author of <hi>Englands great Intereſt,</hi> having directed the good people what perſons to chooſe for the enſuing Parliament, and what not. His next work is to inſtruct them in the Know<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edge of their <hi>Powers,</hi> which he divides into <hi>three Rights</hi> or <hi>Fundamentals. The</hi> Firſt is <hi>Property, that is, a</hi> Right <hi>and</hi> Title <hi>to their own</hi> Lives, Liberties, <hi>and</hi> Eſtates. <hi>For the</hi> Law <hi>(he ſays) is Vmpire be<g ref="char:EOLhyphen"/>tween</hi> King, Lords, <hi>and</hi> Common<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; <hi>and the</hi> Right <hi>and</hi> Property <hi>is</hi> one <hi>in kind, through all</hi> Degrees <hi>and</hi> Qualities <hi>in the Kingdom. Mark that.</hi>
+            </p>
+            <p>Way does he not ſay that the <hi>King</hi> is <hi>
+                  <g ref="char:V">Ʋ</g>mpire</hi> betwixt <hi>King, Lords</hi> and <hi>Commons,</hi> as wel<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at
+<pb facs="tcp:187985:7"/>
+the <hi>Law</hi> is ſo? For the <hi>Law</hi> is only the <hi>Kings Pleaſure</hi> made <hi>known;</hi> and the whole force and autho<g ref="char:EOLhyphen"/>rity of it, is but an Emanation from <hi>Soveraign Power.</hi> And then for his <hi>Three Fundamentals:</hi> As I am a <hi>Commoner</hi> of <hi>England</hi> my ſelf, I ſhould be loth to loſe any Right of an <hi>Engliſh man;</hi> and yet as I am a <hi>loyal ſubject</hi> alſo, I ſhould be as unwilling to encroach upon the <hi>Priviledges</hi> of the <hi>Crown.</hi> I do not know what he means by his <hi>one in Kind;</hi> with the <hi>emphaſis</hi> of <hi>Mark that</hi> upon it. If it be, that the <hi>people</hi> have as much <hi>right</hi> to their <hi>Lives, Liberties,</hi> and <hi>Eſtates,</hi> as the <hi>King himſelf</hi> has; though it be <hi>true</hi> in <hi>ſome ſenſe,</hi> it will not hold yet, as he would have it underſtood. For the <hi>people</hi> may <hi>for<g ref="char:EOLhyphen"/>feit</hi> their <hi>Lives, Liberties</hi> and <hi>Eſtates</hi> but <hi>the King cannot forfeit his:</hi> Wherefore <hi>Mark that too.</hi>
+            </p>
+            <p>
+               <hi>His</hi> Second Fundamental <hi>is</hi> Legiſlation: <hi>Or</hi> the Power of making Laws; <hi>for</hi> no Law <hi>can be</hi> made <hi>or</hi> abrogated <hi>(he ſays) in</hi> England <hi>without them.</hi>
+            </p>
+            <p>It is not candidly done, to call that the very <hi>Act</hi> of <hi>Legiſlation,</hi> which is only <hi>conſultive</hi> and <hi>pre<g ref="char:EOLhyphen"/>parative towards</hi> it. <hi>The making of Laws,</hi> is a <hi>peculiar</hi> and <hi>incommunicable Prerogative</hi> of <hi>Soveraignty;</hi> ſo that to place the <hi>legiſlative power</hi> in the <hi>Commons,</hi> is to make <hi>them Supream;</hi> and to ſet a <hi>King</hi> of <hi>England</hi> once more at the <hi>Commons Bar.</hi> Beſide that, his <hi>Inference</hi> is as <hi>inconſequent,</hi> as his <hi>Aſſertion</hi> is <hi>dangerous.</hi> As if a Law muſt neceſſarily be made <hi>by</hi> them, becauſe it cannot be <hi>made</hi> or <hi>abrogated without</hi> them. Does he that furniſhes the <hi>Ingredients,</hi> therefore make the <hi>Medicine,</hi> becauſe the <hi>Me<g ref="char:EOLhyphen"/>dicine</hi> cannot be made <hi>without</hi> the <hi>Ingredients?</hi> What ſignifies the <hi>form</hi> of an <hi>Inſtrument</hi> to the paſ<g ref="char:EOLhyphen"/>ſing of an <hi>Authority</hi> or <hi>Obligation,</hi> without <hi>ſigning</hi> and <hi>ſealing?</hi> Yet the one cannot be done with<g ref="char:EOLhyphen"/>out the other. Does the <hi>Councel</hi> that draws the <hi>Conveyance</hi> paſs away the <hi>Eſtate;</hi> becauſe the Act could not have been good <hi>without</hi> him? And again, the <hi>Law</hi> in this caſe, is no other then a <hi>Promiſe</hi> under the <hi>Kings Hand</hi> paſt to the <hi>people,</hi> and partakes of the nature of other promiſes. It was <hi>made</hi> by the <hi>Promiſer,</hi> and cannot be <hi>diſcharg'd</hi> without the Conſent of thoſe to whom it was <hi>promiſed,</hi>
+            </p>
+            <p>
+               <hi>His</hi> third Fundamental <hi>is</hi> Executive, <hi>&amp; holds proportion with the other two, in order to compleat both their</hi> Freedom <hi>and</hi> Security; <hi>and that is their ſhare (as he ſays) in the</hi> Judicatory Power; <hi>in the</hi> Execution <hi>and</hi> Application <hi>of</hi> thoſe Laws <hi>that they agree to be made.</hi>
+            </p>
+            <p>A <hi>Judicatory Power</hi> without authority to Miniſter an <hi>Oath,</hi> is to me, I muſt confeſs, a new thing: And now for the word <hi>agree;</hi> though it may be pertinent enough to his purpoſe (for there needs no more to the undoing of the moſt regular Government upon the face of the Earth, then <hi>firſt</hi> to turn the peoples hearts againſt it, and then to poſſeſs them that they have a <hi>Legal Remedy</hi> in their <hi>own hands.)</hi> Yet <hi>that word</hi> (I ſay) in this place, is very improper? for it is but a <hi>Requeſt</hi> pre<g ref="char:EOLhyphen"/>ſented to his Majeſty for his <hi>Approbation.</hi> The <hi>Requeſt</hi> or <hi>Bill</hi> is, no doubt, <hi>agreed</hi> upon; but it were an unco<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th kind of expreſſion for a <hi>Petitioner</hi> to ſay, that he does <hi>agree</hi> that his Petition ſhall be <hi>granted.</hi>
+            </p>
+            <p>The Buſineſs is fairly puſh'd already: but the Publiſher of a <hi>pretended Speech</hi> lately printed car<g ref="char:EOLhyphen"/>ries it a ſtep further. <hi>If a</hi> Prince <hi>(ſays he) be born to a</hi> Kingdom, <hi>who is either</hi> Lunatique, <hi>or other<g ref="char:EOLhyphen"/>wiſe diſabled to do the Kingdom any good, ſhall not the Subjects, in this caſe, proceed to chuſe another, who may preſerve the Kingdom, when otherwiſe it muſt of neceſſity periſh? as lately in the caſe of</hi> Portugal, <hi>they choſe</hi> another <hi>to ſucceed, becauſe of the</hi> Diſability <hi>of the</hi> former.</p>
+            <p>This is in plain terms a <hi>Depoſing principle:</hi> For if a <hi>King</hi> may be <hi>remov'd,</hi> in ſuch caſe of <hi>Diſability,</hi> the <hi>people</hi> being made <hi>Judges</hi> of the Caſe, <hi>it is but their ſaying that he is not fit to govern, &amp; the work is done.</hi>
+            </p>
+            <p>There is a Sheet printed under the Title of <hi>A Plea,</hi> &amp;c. that has more brains and art in it than or<g ref="char:EOLhyphen"/>dinary. <hi>He ſays that a</hi> King <hi>is not for his</hi> own <hi>but his</hi> Subjects ſakes <hi>only; and that</hi> we <hi>have<g ref="char:punc">▪</g> in truth, rather Title,</hi> &amp;c. <hi>to</hi> H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, <hi>then</hi> He <hi>to Us: Adding, that when</hi> Kings themſelves be <hi>ill ones,</hi> God <hi>not only</hi> approves <hi>of their</hi> removal, <hi>but even</hi> himſelf does it<hi>:</hi> This he ſupports upon Texts extreamly miſapply'd,</p>
+            <p>Let it be agreed now that a <hi>Prince</hi> is rather conſtituted for the good of the <hi>people,</hi> then the <hi>people</hi> for the advantage of the <hi>Prince.</hi> But let it be granted alſo on the other ſide, that Providence has made <hi>Order</hi> ſo <hi>neceſſary</hi> to the well-being of <hi>mankind,</hi> that <hi>Tyranry</hi> it ſelf is yet more tolerable than either <hi>Anarchy</hi> or <hi>Sedition:</hi> So that in the matter of <hi>Obedience</hi> to <hi>Superiors,</hi> we find our <hi>convenience</hi> even in our <hi>Duty.</hi> He ſeems to infer, that becauſe <hi>God himſelf</hi> does many times <hi>remove ill Kings,</hi> that
+<pb facs="tcp:187985:7"/>
+therefore he approves of <hi>our doing</hi> ſo too. But <hi>firſt,</hi> we are not to draw <hi>Gods extraordinary ways</hi> into <hi>precedent.</hi> By the ſame Rule, <hi>plunder</hi> was formerly juſtified upon a <hi>Scriptural Commiſſion</hi> for the <hi>ſpoil<g ref="char:EOLhyphen"/>ing</hi> of the <hi>Egyptians. Secondly,</hi> The very admittance, that an <hi>ill King</hi> may be <hi>remov'd,</hi> makes way to the <hi>deſtruction</hi> of a <hi>good one;</hi> for 'tis but <hi>ſaying</hi> he <hi>is</hi> ſo, to <hi>make</hi> him ſo, and it leaves him barely at the mercy of the people: And this is not all neither, for it turns up the very <hi>root</hi> of <hi>Government,</hi> and caſts humane Affairs into a <hi>circulation of confuſion.</hi> The <hi>two Houſes</hi> depos'd the <hi>King;</hi> the <hi>Com<g ref="char:EOLhyphen"/>mons</hi> the <hi>Lords;</hi> the <hi>Multitude</hi> they depoſed the <hi>Commons;</hi> and <hi>all</hi> upon the <hi>ſame Charge</hi> of <hi>Miſ<g ref="char:EOLhyphen"/>demeanour.</hi> So that the <hi>Truſtee</hi> being ſtill accomptable to thoſe that <hi>entruſted</hi> him, the <hi>Order</hi> of <hi>Go<g ref="char:EOLhyphen"/>vernment</hi> is <hi>inverted,</hi> and the <hi>laſt Appeal</hi> lodg'd in the Rabble. It is a ſtrange thing that our <hi>Prote<g ref="char:EOLhyphen"/>ſtant Diſſenters</hi> ſhould ſo unanimouſly agree in their methods of <hi>oppoſing Authority,</hi> and yet keep at ſo grea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <hi>diſtance</hi> in <hi>all things elſe;</hi> for how ſcrupulous ſoever they may may ſeem to be in <hi>ſet forms</hi> of <hi>Devotion,</hi> they are the ſtricteſt people in the world, in the obſervance of a <hi>ſet form</hi> of <hi>Wrangling</hi> with the <hi>Government:</hi> For an <hi>Out-cry</hi> of <hi>perſecution</hi> dos as naturally follow a <hi>Plea</hi> for <hi>Liberty,</hi> as one foot follows another. <hi>Doth not ſuch a day as this (ſays our</hi> Quaeriſt) <hi>loudly call for</hi> Repentance <hi>that</hi> Proteſtants <hi>have been perſecuting each other; and for</hi> Unity <hi>in affection among all</hi> proteſtant Subjects, <hi>whether conforming or diſſenting in ſome leſſer points; and that as brethren they</hi> unite <hi>in ſuch a</hi> Combi<g ref="char:EOLhyphen"/>nation <hi>of conjunction, as was in Q.</hi> Elizabeths <hi>time, with good ſucceſs to defend the Crown, Religion and Kingdom, againſt the common Enemy of Mankind?</hi> Since the <hi>perſecution</hi> of <hi>this Age</hi> lies ſo heavy up<g ref="char:EOLhyphen"/>on him, and that nothing will ſerve his tu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, but the <hi>uniting</hi> of <hi>Proteſtants</hi> in ſuch a <hi>Combination</hi> as was in the days of <hi>Q. Elizabeth,</hi> it will not be amiſs to look a little into the Behaviour of the <hi>pro<g ref="char:EOLhyphen"/>teſtant Diſſenters</hi> in thoſe days, and the <hi>Indulgence</hi> which they received fom that Gracious Princeſs.</p>
+            <p>The <hi>Non-conformiſts</hi> that fled in Q. <hi>Maries</hi> time to <hi>Frankfort,</hi> and went off from the <hi>Engliſh re<g ref="char:EOLhyphen"/>formed Catholiques</hi> there to the <hi>proteſtant Diſsenters</hi> at <hi>Geneva,</hi> theſe <hi>Non-conformiſts</hi> (I ſay) returned for <hi>England</hi> upon <hi>Q. Elizabeths</hi> coming to the Crown, and for the <hi>firſt ten years</hi> of her Reign, p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y'd her ſo hard with <hi>Libels, Clamours</hi> and <hi>ſeditious Conſultations,</hi> that betwixt the <hi>Papiſts</hi> on the <hi>one</hi> hand, and the <hi>Proteſtant Diſſenters</hi> one the <hi>other,</hi> ſhe had much a do to ſecure the peace of her Go<g ref="char:EOLhyphen"/>vernment: And not being in condition to venture upon any courſe rigor or ſeverity, the <hi>Pro<g ref="char:EOLhyphen"/>teſtant Diſſenters</hi> in the 14th, year of her Reign, erected a Model of their own: call'd it the <hi>Church,</hi> libell'd the <hi>Queen, Parliament</hi> and <hi>Lords,</hi> and afterward entred into a formal <hi>Conſpiracy</hi> againſt her <hi>Majeſty</hi> and <hi>Council;</hi> which being detected, ſome were executed, and others impriſon'd<hi>:</hi> So that, at laſt, by one ſevere Law of the 35th. of her Reign, ſhe put an end to that Confederacy,</p>
+            <p>Here was the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of the <hi>Combination</hi> our <hi>Pamphleter</hi> ſpeaks of; and we'l give ye now the pro<g ref="char:EOLhyphen"/>viſion it ſelf that did the buſineſs, with the <hi>preſcribed form</hi> of their <hi>Submiſſion. The</hi> penalties <hi>were</hi> Impriſonment, <hi>without</hi> Bail <hi>or</hi> Main-prize, <hi>for being</hi> preſent at unlawful Conventicles. <hi>The Of<g ref="char:EOLhyphen"/>fender to be diſcharg'd if within three months be made his</hi> open Submiſſion <hi>and Acknowledgment, in the</hi> Form <hi>by the ſaid Statute appointed. But in caſe of</hi> Recuſancy, <hi>to</hi> conform <hi>within that time, he was requir'd to</hi> abjure <hi>the Realm; and in caſe of refuſing to</hi> abjure, <hi>or of</hi> not departing, <hi>within a limited time, or of</hi> returning <hi>without Licence, to be proceeded againſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a</hi> Felon, without Benefit of Clergy. <hi>Here follows the</hi> Form <hi>of</hi> Submiſſion.</p>
+            <p>
+               <hi>I</hi> A. B. <hi>do humbly confeſs and acknowledge that I have grievouſly offended God, in contemning her Majeſties lawful Covernment, and Authority, by abſenting my ſelf from Church, and from hearing Divine Service, contrary to the godly Laws and Statutes of this Realm; and in uſing and frequenting diſorder'd and unlawful Conventicles and Aſſemblies, under the pretence and co<g ref="char:EOLhyphen"/>lour of Exerciſe of Religion: And I am heartily ſorry for the ſame,</hi> &amp;c.</p>
+            <p>You ſee here what Quarter was both given and taken under Q. <hi>Elizabeth,</hi> which ſhews that the <hi>Quaeriſt</hi> was little read in Hiſtory, to appeal to the practices of thoſe times, either for the <hi>Innocence</hi> of the <hi>party,</hi> or the <hi>forbearance</hi> of them. But hear what <hi>Englands Intereſt</hi> ſays to this matter.</p>
+            <p>
+               <hi>Oh! lay to heart (ſays he) the grievous</hi> Spoils <hi>and</hi> Ruins <hi>that have been laid upon your harmleſs Neighbours for</hi> near theſe twenty years, Sixty pounds <hi>diſtrain'd for</hi> Twelve. Two hundred <hi>for</hi> Sixty:</p>
+            <p>
+               <pb facs="tcp:187985:8"/>
+               <hi>The</hi> Flocks <hi>taken out of the</hi> Fold; <hi>the</hi> Herd <hi>from the</hi> Stall<hi>: Not a</hi> Cow left <hi>to give</hi> Milk <hi>to the</hi> Or<g ref="char:EOLhyphen"/>phans, <hi>nor a</hi> Bed <hi>for the</hi> Widow <hi>to lie on: Whole Barns of</hi> Corn <hi>ſwept away, and not a penny returned. And all this for worſhipping God according to their Conſcience. If you</hi> (ſays he to the Free-holders) <hi>will either</hi> compel or perſecute <hi>your ſelves, or</hi> chuſe <hi>ſuch as do, you hate the</hi> Papiſts, <hi>but not</hi> Popery.</p>
+            <p>This is ſo errant a <hi>Cant</hi> of Begging, as if the <hi>Proteſtant Diſſenters</hi> had ſerved their Trade in <hi>Moor<g ref="char:EOLhyphen"/>fields;</hi> and it runs too, in the very tone and ſtile of their <hi>petitions</hi> and <hi>admonitions</hi> to Q. <hi>Elizabeth,</hi> and ſo down by a clear Succeſſion to this inſtant. <hi>There were</hi> Citations, Degradings, <hi>and</hi> Depriva<g ref="char:EOLhyphen"/>vations; <hi>ſome in the</hi> Marſhalſeas, <hi>ſome in the</hi> White-Lyon, <hi>ſome in the</hi> Gatehouſe <hi>at</hi> Weſtminſter, <hi>o<g ref="char:EOLhyphen"/>thers in the</hi> Counter, <hi>or in the</hi> Clink, <hi>or in</hi> Bridewell, <hi>or in</hi> Newgate. <hi>How many good mens deaths have the Biſhops been the cauſe of? How many have they driven to leave their Miniſtry, and live by Phy<g ref="char:EOLhyphen"/>ſick? Men have been miſerably handled with</hi> Revilings, Impriſonments, Baniſhments, <hi>&amp;c. If this perſecution be not provided for, great trouble will come of it.</hi>
+            </p>
+            <p>Under K. <hi>James,</hi> no man (they ſaid) <hi>could be aſsured of his Lands or Life.</hi> And under the <hi>late King,</hi> how were theſe poor people oppreſſed by <hi>Fines, Impriſonments, Stigmatizings, Deprivations, ſuſpenſions, excommunicated, outlaw'd beggar'd,</hi> proceeded againſt with puniſhments <hi>p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cuniary</hi> and <hi>cor<g ref="char:EOLhyphen"/>poreal;</hi> nay, <hi>death</hi> it ſelf<hi>:</hi> And now they are at the ſame lock again.</p>
+            <p>But what are theſe people (for the love of God) that are thus miſerably us'd all this while? Why truly (if we may take their own words for't under Q. <hi>Elizabeth</hi> they were <hi>Loyal Subjects,</hi> and <hi>Gods faithful ſervants;</hi> moſt <hi>worthy, faithful,</hi> and <hi>painful Miniſters, learned</hi> and <hi>godly, unreproveable</hi> before all men; the <hi>Strength</hi> of the <hi>Land,</hi> and the <hi>Sinew</hi> of her Majeſties <hi>Government.</hi> Under K. <hi>James,</hi> they were men of <hi>Conſcience,</hi> preſervers of the <hi>Churches Right,</hi> and aſſerters of the <hi>Holy Diſ<g ref="char:EOLhyphen"/>cipline.</hi> Under the <hi>late King,</hi> they took up the Titles of men of tender Conſciences, well-affected; men that had the <hi>power</hi> of <hi>Godlineſs,</hi> painful, laborious preachers of the Word; faithful in their Generation, and men zealous in the defence of the <hi>Proteſtant Religion,</hi> the <hi>Priviledges</hi> of <hi>Parliament,</hi> and of his Majeſty in his <hi>Iuſt Rights.</hi> And in our days, they call themſelves Lovers of God, Or<g ref="char:EOLhyphen"/>dinances, and enemies of all humane Inventions; a people zealous of Religion; ſound in the Faith, intelligent, ſober, numerous, peaceable, orthodox: The Ceremonies they look upon as an Exceſs; they diſſent from the outward Order of Worſhip, (for the <hi>Conſcience</hi> will interpoſe in the Dictates and Injunctions of men, in <hi>Divine Worſhip)</hi> all theſe people agreeing in this common Complaint, that they are perſecuted for worſhipping according to Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcience. Whether they do well or ill; whether they ſpeak true or falſe; whether they have <hi>Reaſon</hi> on their ſide or not, in theſe Re<g ref="char:EOLhyphen"/>monſtrances let the Reader judge.</p>
+            <p>Let it be firſt obſerv'd, that the Author dates this perſecution from his Majeſties Return; <hi>near theſe</hi> 20 <hi>years</hi> (he ſay<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s if there had never been any ſuch thing before; whereas from the time of Q. <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> Act above-mentioned, to the very Act of <hi>
+                  <g ref="char:V">Ʋ</g>niformity,</hi> (the late times excepted) <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Church was never without a <hi>legal proviſion</hi> for the preventing &amp; ſuppreſſing of <hi>Conventicles;</hi> and the much <hi>Law</hi> more rigorouſly put in execution. Beſide that, as they were more or leſs indulged, the N<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion was ſtill more or leſs at quiet. Obſerve again, that there's no notice taken of the Liberty of the late times, or the deplorable Effects of that Licence, though the Presbyterians little F<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nger was hea<g ref="char:EOLhyphen"/>vier then the Loyns of the <hi>Biſhops,</hi> in the point of Reſtraint, as we have ſhew'd already, from the mouths of the other <hi>Sectaries.</hi> But they are too prudent to fall foul one upon another, when their buſineſs is to joyn in a Conſederate party againſt the Government: ſo that they are now One and All, and every ſeparate Opinion ſticles for all the reſt<hi>:</hi> And then comes on the Cry of the O<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>phans and Widdows againſt the cruelty of the Oppreſſor : <hi>Sixty pouunds diſtrain'd for twelve; Two hundred for Sixty,</hi> &amp;c. Methinks the Plaintiff ſhould have been ſo ingenuous, as to have refle<g ref="char:EOLhyphen"/>cted upon the perſecu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions that other men ſuffered even from theſe people that now complain of a perſecution; &amp; that <hi>they ſuff<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red for worſhipping according to their Conſciences too,</hi> and they had not on<g ref="char:EOLhyphen"/>ly Religion on their ſide, but Law alſo; whereas the other founded a Rebellion upon a pretended
+<pb n="15" facs="tcp:187985:8"/>
+ſcruple of <hi>Religion,</hi> and oppoſed the Rules of <hi>Chriſtianity</hi> and <hi>Civil Authority,</hi> both in one: But it <hi>is a perſecution</hi> to them, to be kept from <hi>perſecuting.</hi>
+            </p>
+            <p>Neither does this Clamour keep it ſelf within the bounds of <hi>ſpiritual</hi> matters, but breaks in upon the <hi>Civil Adminiſtration,</hi> and alarms the multitude with the terrible apprehenſions likewiſe of <hi>Tyranny</hi> &amp; <hi>Slavery.</hi> Wherefore we are enforced to oppoſe the <hi>ſenſible Experiment</hi> of an <hi>actual Ty<g ref="char:EOLhyphen"/>ranny</hi> and <hi>ſlavery</hi> to the <hi>artificial</hi> and <hi>imaginary fears</hi> of it; to leave all mortals without excuſe, that ſhall read theſe plain and well-meaning Papers, if ever they ſhould fall into the ſame miſtakes again.</p>
+            <p>The taking away of mens <hi>Goods</hi> and <hi>Liberties,</hi> the forcing of their <hi>Conſciences,</hi> and tying them up to an <hi>implicit Obedience</hi> to the Decrees of <hi>Government,</hi> are terrbile things, I muſt confeſs: But yet much worſe ſure, where they run directly <hi>againſt</hi> the Stream of a <hi>receiv'd Authority</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ſage,</hi> then where the <hi>ſo doing</hi> is warranted by <hi>known Laws</hi> and <hi>uninterrupted Practice.</hi>
+            </p>
+            <p>There are ſeveral ſorts of <hi>perſecution:</hi> A <hi>perſecution</hi> in matter of <hi>Conſcience, Good Name, Pro<g ref="char:EOLhyphen"/>priety</hi> of <hi>Goods</hi> and <hi>Eſtate; freedom of perſon,</hi> and that is the moſt odious aggravation of <hi>perſecution,</hi> when it is ſet up in defiance of a <hi>publick Law,</hi> and introduced under a colour of <hi>kindneſs</hi> to all <hi>theſe Intereſts.</hi> We will be as ſhort in theſe particulars as we can, and leave the Reader to ſay where the Odium of the Perſecution lies.</p>
+            <p>
+               <hi>Firſt,</hi> to the point of <hi>Conſcience.</hi> It was the judgment of the <hi>late Royaliſts,</hi> that they were ob<g ref="char:EOLhyphen"/>liged in <hi>conſcience</hi> and <hi>duty,</hi> to pay Obedience to the <hi>Laws,</hi> both <hi>civil</hi> and <hi>eccleſiaſtical;</hi> and with the hazard of their <hi>Lives</hi> and <hi>Fortunes,</hi> to endeavour the preſervation both of the <hi>Church</hi> and <hi>State.</hi> The <hi>Proteſtant Diſſenters</hi> pretended the ſame reſpect for the <hi>King</hi> and <hi>Church,</hi> with the <hi>Royal party:</hi> And when by popular pretexts they had ingra<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iated themſelves with the multitude, they plaid their Game the contrary way, and took up <hi>Arms againſt</hi> the <hi>Government,</hi> which they ſwore to <hi>de<g ref="char:EOLhyphen"/>fend.</hi> Now ſee at what a rate they treated, not only the <hi>Friends</hi> of the <hi>Government,</hi> but the <hi>Govern<g ref="char:EOLhyphen"/>ment it ſelf.</hi>
+            </p>
+            <p>There were a <hi>hundred and fifteen Miniſters</hi> ejected, within the <hi>Bills of Mortality;</hi> beſide <hi>Pauls</hi> and <hi>Weſtminſter;</hi> and in proportion all the Nation over, for refuſing to comply with the <hi>Schiſm;</hi> and they were not ſo much as ſuffer'd to take the Employment of either a <hi>School-maſter</hi> or a <hi>Chap<g ref="char:EOLhyphen"/>lain,</hi> but under heavy penaltie. Several of our Divines were choak'd up, and poiſon'd in <hi>Peter-Houſe,</hi> and other Goals, either <hi>for worſhipping according to their Conſciences, or refuſing to act againſt them.</hi> No man admitted to compound, or ſo much as live in the Parliaments Quarters, without <hi>ſwearing.</hi> Men were <hi>ſequeſter'd</hi> for not joyning in the <hi>Rebellion;</hi> for aſſiſting the <hi>King according</hi> to the <hi>Law,</hi> and for <hi>not Covenanting,</hi> though in expreſs Contradiction to the Oath of <hi>Allegiance.</hi> Up<g ref="char:EOLhyphen"/>on the Abolition of the <hi>Common Prayer,</hi> ſevere penalties impos'd upon any man that ſhould uſe it; and their own <hi>Directory</hi> impos'd upon a Forfeiture too; nay, they would not allow the King him<g ref="char:EOLhyphen"/>ſelf, in his Diſtreſſes, the Comfort of any of his own <hi>Chaplains,</hi> nor ſo much as the benefit of a <hi>Common-Prayer Book:</hi> And at <hi>Fife</hi> in <hi>Scotland,</hi> there was an <hi>Oath</hi> given at the <hi>Communion, not</hi> to ta<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the <hi>Kings Oath,</hi> nor any other then their <hi>own<g ref="char:punc">▪</g>—</hi>Was all this an Invaſion of the <hi>Liberty</hi> of <hi>Conſcience</hi> or not?</p>
+            <p>Touching a <hi>perſecution</hi> now upon the point of <hi>Good name:</hi> Though the whole courſe of the Hi<g ref="char:EOLhyphen"/>ſtory is full of virulent and unchriſtian Reflections, I will only refer my ſelf to that <hi>Diabolical Libel</hi> of <hi>Whites Centuries of ſcandalous Miniſters;</hi> wherein, without any regard to <hi>truth</hi> or <hi>modeſty,</hi> they have expos'd ſo many <hi>reverend Names</hi> to <hi>Infamy</hi> and <hi>Diſhonour.</hi> In one word; After they had re<g ref="char:EOLhyphen"/>preſented the <hi>King himſelf</hi> for a <hi>Tyrant,</hi> and an <hi>Idolater,</hi> it was but Conſonant that they ſhould caſt Reproaches upon his Party.</p>
+            <p>Touching the <hi>Freedom</hi> of our <hi>Perſons</hi> and <hi>Eſtates,</hi> the whole courſe of the late War, was but one <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntinued Uſurpation upon our Rights to both<hi>:</hi> Noble mens Houſes turn'd to Priſons, and peo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e committed, without knowing either their Accuſers, or their Offence: Some clap'd on Ship-<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be tranſported, no body knew whither; and others ſold into Plantations for Slaves. To <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nothing of thoſe that fell by the Sword, in the Defence of their Country; or otherwiſe paſt
+<pb facs="tcp:187985:9" rendition="simple:additions"/>
+the hand of the Executioner, in juſtification of their Religion and Allegiance. There was <hi>no taking of</hi> Threeſcore pounds <hi>for</hi> Twelve, <hi>in theſe days; nor of</hi> Two hundred <hi>for</hi> Sixty, But they took <hi>All</hi> for <hi>nothing;</hi> and there was no Living among them for any Honeſt man, that would not proſtitute his Conſcience. And who are they now, but either the very perſons, or men however of theſe very Principles, that acted theſe Out-rages upon <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> and yet now complain of being perſecuted <hi>them<g ref="char:EOLhyphen"/>ſelves?</hi> When they ſtartle the Common people with the Notions of Cruelty and Slavery, as a mat<g ref="char:EOLhyphen"/>ter now in proſpect; methinks they ſhould bluſh at the memory, and upon the Guilt of thoſe re<g ref="char:EOLhyphen"/>al Calamities which we have both ſeen and felt, wherein our Bleſſed Soveraign had yet a greater ſhare then any of his Subjects.</p>
+            <p>
+               <hi>They aboliſhed</hi> Kingly Government; <hi>ſold the</hi> Crown Lands; impriſon'd <hi>and</hi> murther'd <hi>the</hi> King; <hi>made it</hi> Treaſon <hi>to deny the</hi> Supremacy <hi>of the</hi> Commons; <hi>turn'd our</hi> Churches <hi>into</hi> Stables; <hi>burnt our</hi> Communion-Tables, <hi>and profan'd the very Aſhes of the Dead.</hi> Let but any man read <hi>Scobels Acts,</hi> and ſay, if the <hi>Engliſh</hi> were not in thoſe times, and under theſe <hi>Proteſtant Diſſenters,</hi> the moſt de<g ref="char:EOLhyphen"/>ſpicable <hi>ſlaves</hi> in nature. See their <hi>Tax</hi> upon the <hi>Fifth</hi> and <hi>Twentieth</hi> part, their <hi>Exciſes</hi> upon <hi>Ex<g ref="char:EOLhyphen"/>ciſe;</hi> their <hi>Aſſeſſments</hi> for the Maintenance of the <hi>Army,</hi> and their <hi>monthly Taxes</hi> for the ſame end. <hi>Ninety thouſand pounds; Sixſcore thouſand pounds, Sixty thouſand pounds, Sequeſtrations,</hi> ſeizing of peoples <hi>Rents</hi> and <hi>Debts,</hi> appropriating to themſelves the profits of <hi>Tonnage</hi> and <hi>Poundage,</hi> and Compoſitions for <hi>Wards,</hi> Authorizing the <hi>breaking</hi> open of <hi>Locks,</hi> and <hi>Examining</hi> upon <hi>Oath</hi> for diſcovery of <hi>Delinquents, Money</hi> and <hi>Eſtates.</hi> All this is as well known, as the very fact of the War it ſelf; and if we have a mind to lie down under the ſame Bondage again, let us believe the Sto<g ref="char:EOLhyphen"/>ries of <hi>Arbitrary Government</hi> and <hi>Superſtition,</hi> that theſe people tell us of, and they ſhall juſt ſo help us out of it again, as they did before.</p>
+            <p>There ſhould be ſomething further ſaid to their pretence of being <hi>perſecuted</hi> for <hi>Religion;</hi> but I find little to be added to what is already delivered. <hi>The Law ſtands ſtill:</hi> They preſs upon the <hi>Law,</hi> and yet cry out, that the <hi>Law</hi> perſecutes <hi>them.</hi> We may lay down this, I think, for a Maxim; That <hi>whoſoever tells us that he makes a Conſcience of complying with the Diſcipline of the Church, and yet manifeſtly makes none at all, of undermining, nay and of blowing up the whole frame of the Govern<g ref="char:EOLhyphen"/>ment, that man is moſt undoubtedly an</hi> Hypocrite.</p>
+            <p>To conclude: What's the meaning of this <hi>Remonſtrating</hi> to the people? They are <hi>no Judges</hi> of the <hi>Controverſie:</hi> But they do well however, in a Cauſe, where <hi>Force</hi> does a great deal more than <hi>Argument,</hi> to make their application to the multitude, with whom <hi>clamour</hi> and <hi>pretence</hi> are of more value than <hi>modeſty</hi> and <hi>reaſon.</hi> It is a moſt ridiculous contradiction to common ſenſe, to believe theſe men to be in earneſt; for if they were, they would never <hi>defame</hi> the Government, at the ſame time that they beg a <hi>Diſpenſation</hi> from it.</p>
+            <p>Their <hi>Demand</hi> is <hi>unreaſonable,</hi> the thing it ſelf only <hi>notional</hi> and <hi>impracticable.</hi> By <hi>Liberty of Conſcience,</hi> they mean <hi>a Freedom of doing what they pleaſe,</hi> which neceſſarily implies <hi>a total Diſſolu<g ref="char:EOLhyphen"/>tion of the Laws.</hi> They offer it only a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <hi>Decoy</hi> to the <hi>people;</hi> and when they have gain'd <hi>compaſſion</hi> to <hi>themſelves</hi> (like beggars that move pity by ſhewing Ulcers of their own making) their next buſineſs is to draw <hi>Contempts</hi> upon the <hi>Government,</hi> and after that, to enter without more ado, upon the great Work of <hi>Reformation. Let me do this Right however to the</hi> Independents<hi>: I do not find that party <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o have given the Government any trouble ſince his Majeſties Return; but that they have kept themſelves clear of all theſe late Broils: And if</hi> Authority <hi>had the ſame ſenſe of them, with the Author of this Pam<g ref="char:EOLhyphen"/>phlet, they would be found both in their</hi> Principles <hi>and in their</hi> Manners, <hi>to have the moſt reaſonable Claim of all ſorts of Diſſenters, to a favourable allowance from the Government.</hi> God in his mercy open our Eyes, that we may know our <hi>Friends</hi> from our <hi>Enemies.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
